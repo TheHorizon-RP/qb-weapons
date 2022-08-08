@@ -766,3 +766,74 @@ end)
 QBCore.Functions.CreateUseableItem('snspistol_luxuryfinish', function(source, item)
     TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'luxuryfinish')
 end)
+--carbine rifle
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_defaultclip', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'defaultclip')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_extendedclip', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'extendedclip')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_grip', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'grip')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_flashlight', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'flashlight')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_largescope', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'largescope')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_suppressor', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'suppressor')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_barreldefault', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'barreldefault')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_barrelheavy', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'barrelheavy')
+end)
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_holoscope', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'holoscope')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_smallscope', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'smallscope')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_largescope', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'largescope')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator1', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator1')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator2', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator2')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator3', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator3')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator4', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator4')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator5', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator5')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator6', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator6')
+end)
+
+QBCore.Functions.CreateUseableItem('carbinerifle_mk2_compensator7', function(source, item)
+    TriggerClientEvent('weapons:client:EquipAttachment', source, item, 'compensator7')
+end)
